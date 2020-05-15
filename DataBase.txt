@@ -1,0 +1,57 @@
+--------------- Welcome to Car Renting  Data Base ---------------
+
+ The Truck has a  Type: Toyota, Year: 2017, Transmission: Manual
+The truck Type is: Concrete_mixer
+------------------------------------------------------
+
+ The Truck has a  Type: Toyota, Year: 2017, Transmission: Automatic
+The truck Type is: 50
+------------------------------------------------------
+
+ The Truck has a  Type: Mercedes, Year: 2017, Transmission: Automatic
+The truck Type is: Sport and convetible
+------------------------------------------------------
+
+ The Truck has a  Type: Mercedes, Year: 2017, Transmission: Automatic
+The truck Type is: Sport
+------------------------------------------------------
+
+ The Truck has a  Type: Nissan, Year: 2017, Transmission: Automatic
+The truck Type is: Semitrailer
+------------------------------------------------------
+
+ The Truck has a  Type: Nissan, Year: 2017, Transmission: Manual
+The truck Type is: Luxury
+------------------------------------------------------
+
+ The Truck has a  Type: Mercedes, Year: 2016, Transmission: Automatic
+The truck Type is: Semitrailer
+------------------------------------------------------
+
+ The Truck has a  Type: Toyota, Year: 2016, Transmission: Automatic
+The truck Type is: Economy
+------------------------------------------------------
+
+ The Truck has a  Type: Nissan, Year: 2016, Transmission: Manual
+The truck Type is: 50
+------------------------------------------------------
+
+ The Truck has a  Type: Mercedes, Year: 2016, Transmission: Automatic
+The truck Type is: Luxury
+------------------------------------------------------
+
+ The Truck has a  Type: Toyota, Year: 2015, Transmission: Manual
+The truck Type is: Tractor
+------------------------------------------------------
+
+ The Truck has a  Type: Mercedes, Year: 2015, Transmission: Automatic
+The truck Type is: 30
+------------------------------------------------------
+
+ The Truck has a  Type: Toyota, Year: 2015, Transmission: Automatic
+The truck Type is: Economy
+------------------------------------------------------
+
+ The Truck has a  Type: Nissan, Year: 2015, Transmission: Manual
+The truck Type is: Tractor
+------------------------------------------------------

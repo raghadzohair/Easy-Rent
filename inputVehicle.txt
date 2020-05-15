@@ -1,0 +1,18 @@
+AddTruck Toyota 2015 300 true Tractor 
+AddTruck Mercedes 2016 400 false Semitrailer
+AddTruck Toyota 2017 300 true Concrete_mixer
+AddBus Mercedes 2015 700 False 30
+AddBus Toyota 2017 600 False 50
+AddCar Mercedes 2017 600 False Sport True 
+AddCar Toyota 2015 200 False Economy False 
+AddCar Mercedes 2017 500 False Sport False  
+AddCar Toyota 2016 250 False Economy False 
+AddTruck Nissan 2017 250 false Semitrailer
+AddTruck Nissan 2015 250 true Tractor 
+AddBus Nissan 2016 650 True 50
+AddCar Nissan 2017 300 True Luxury False 
+AddCar Mercedes 2016 600 False Luxury False 
+AddService Navigation_system 150
+AddService Full_Insurance 700
+AddService Car_Seat 50
+Quit
